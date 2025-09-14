@@ -19,8 +19,11 @@ IMPORTANT: To run Jupyter within VS Code, use the Jupyter extension. Go to the E
 See [pro-analytics-01](https://github.com/denisecase/pro-analytics-01/)
 
 ## Create New Repository
-02 Clone Repo to Local
+
+## Clone Repo to Local
+```shell
 git clone https://github.com/Angie-Crews/datafun-04-notebooks
+```
 
 ## Commands to Manage Virtual Environment
 
