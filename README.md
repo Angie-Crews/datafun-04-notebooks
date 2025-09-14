@@ -18,9 +18,13 @@ IMPORTANT: To run Jupyter within VS Code, use the Jupyter extension. Go to the E
 
 See [pro-analytics-01](https://github.com/denisecase/pro-analytics-01/)
 
+## Create New Repository
+02 Clone Repo to Local
+git clone https://github.com/Angie-Crews/datafun-04-notebooks
+
 ## Commands to Manage Virtual Environment
 
-For Windows PowerShell (change if using Mac/Linux).
+For Windows PowerShell
 Verify that all required packages are included in requirements.txt (and have NOT been commented out).
 
 ```powershell
@@ -28,6 +32,14 @@ py -m venv .venv
 .\.venv\Scripts\activate
 py -m pip install --upgrade pip setuptools wheel
 py -m pip install --upgrade -r requirements.txt
+```
+## Activating a Virtual Environment
+
+```
+To activate a virtual environment
+
+```shell
+.venv\Scripts\Activate
 ```
 
 ## Commands to Run Python Scripts
