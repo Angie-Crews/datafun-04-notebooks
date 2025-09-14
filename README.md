@@ -38,7 +38,6 @@ py -m pip install --upgrade -r requirements.txt
 ```
 ## Activating a Virtual Environment
 
-```
 To activate a virtual environment
 
 ```shell
